@@ -10,7 +10,6 @@ import java.util.List;
 
 
 public class GitPage extends PageObject {
-  //  private WebDriver webDriver;
     private static final Logger logger = Logger.getLogger(GitPage.class.getName());
     @LogMessage("Search text in search bar")
     @FindBy(name = "q")

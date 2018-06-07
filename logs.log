@@ -35894,3 +35894,998 @@
 2018-06-05 17:22:41 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
 2018-06-05 17:22:41 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
 2018-06-05 17:22:42 INFO  TestGmail:75 - Close browser
+2018-06-06 20:00:44 INFO  TestGit:42 - User [email= seleniumlab6test@gmail.com , password=lab6test]
+2018-06-06 20:00:44 INFO  TestGit:42 - User [email= seleniumlab6test3@gmail.com , password=lab6test]
+2018-06-06 20:00:44 INFO  TestGit:42 - User [email= seleniumlab6test2@gmail.com , password=lab6test]
+2018-06-06 20:01:03 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:01:03 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[seleniumlab6test2@gmail.com]]
+2018-06-06 20:01:04 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[lab6test]]
+2018-06-06 20:01:04 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-06 20:01:04 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-06 20:01:04 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:01:05 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:01:05 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[seleniumlab6test3@gmail.com]]
+2018-06-06 20:01:06 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[seleniumlab6test@gmail.com]]
+2018-06-06 20:01:06 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[lab6test]]
+2018-06-06 20:01:06 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-06 20:01:06 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[lab6test]]
+2018-06-06 20:01:06 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:01:06 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-06 20:01:06 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[selenium java]]
+2018-06-06 20:01:06 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-06 20:01:06 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-06 20:01:06 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:01:08 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:01:08 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[selenium java]]
+2018-06-06 20:01:09 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:01:09 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:01:09 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[selenium java]]
+2018-06-06 20:01:09 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:01:09 INFO  GitPage:32 - Total count are 3,679 repository results
+2018-06-06 20:01:09 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:01:09 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:01:09 INFO  GitPage:28 - 	SeleniumHQ/selenium
+2018-06-06 20:01:10 INFO  GitPage:28 - 	sebarmeli/Selenium2-Java-QuickStart-Archetype
+2018-06-06 20:01:10 INFO  GitPage:28 - 	machzqcq/CucumberJVMExamples
+2018-06-06 20:01:10 INFO  GitPage:28 - 	vmi/selenese-runner-java
+2018-06-06 20:01:10 INFO  GitPage:28 - 	Ardesco/Selenium-Maven-Template
+2018-06-06 20:01:10 INFO  GitPage:28 - 	MarkusBernhardt/robotframework-selenium2library-java
+2018-06-06 20:01:10 INFO  GitPage:28 - 	sayems/java.webdriver
+2018-06-06 20:01:11 INFO  GitPage:32 - Total count are 3,679 repository results
+2018-06-06 20:01:11 INFO  GitPage:28 - 	selenium-cucumber/selenium-cucumber-java
+2018-06-06 20:01:11 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:01:11 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:01:11 INFO  GitPage:28 - 	saucelabs-sample-test-frameworks/Java-TestNG-Selenium
+2018-06-06 20:01:11 INFO  GitPage:28 - 	executeautomation/SeleniumWithCucucumber
+2018-06-06 20:01:11 INFO  GitPage:28 - 	SeleniumHQ/selenium
+2018-06-06 20:01:11 INFO  GitPage:28 - 	sebarmeli/Selenium2-Java-QuickStart-Archetype
+2018-06-06 20:01:11 INFO  GitPage:28 - 	machzqcq/CucumberJVMExamples
+2018-06-06 20:01:11 INFO  GitPage:32 - Total count are 3,679 repository results
+2018-06-06 20:01:11 INFO  GitPage:28 - 	vmi/selenese-runner-java
+2018-06-06 20:01:11 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:01:11 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:01:11 INFO  GitPage:28 - 	Ardesco/Selenium-Maven-Template
+2018-06-06 20:01:11 INFO  GitPage:28 - 	MarkusBernhardt/robotframework-selenium2library-java
+2018-06-06 20:01:11 INFO  GitPage:28 - 	SeleniumHQ/selenium
+2018-06-06 20:01:11 INFO  GitPage:28 - 	sayems/java.webdriver
+2018-06-06 20:01:12 INFO  GitPage:28 - 	sebarmeli/Selenium2-Java-QuickStart-Archetype
+2018-06-06 20:01:12 INFO  GitPage:28 - 	selenium-cucumber/selenium-cucumber-java
+2018-06-06 20:01:12 INFO  GitPage:28 - 	machzqcq/CucumberJVMExamples
+2018-06-06 20:01:12 INFO  GitPage:28 - 	saucelabs-sample-test-frameworks/Java-TestNG-Selenium
+2018-06-06 20:01:12 INFO  GitPage:28 - 	vmi/selenese-runner-java
+2018-06-06 20:01:12 INFO  GitPage:28 - 	executeautomation/SeleniumWithCucucumber
+2018-06-06 20:01:12 INFO  GitPage:28 - 	Ardesco/Selenium-Maven-Template
+2018-06-06 20:01:12 INFO  GitPage:28 - 	MarkusBernhardt/robotframework-selenium2library-java
+2018-06-06 20:01:12 INFO  GitPage:28 - 	sayems/java.webdriver
+2018-06-06 20:01:12 INFO  GitPage:28 - 	selenium-cucumber/selenium-cucumber-java
+2018-06-06 20:01:12 INFO  GitPage:28 - 	saucelabs-sample-test-frameworks/Java-TestNG-Selenium
+2018-06-06 20:01:12 INFO  GitPage:28 - 	executeautomation/SeleniumWithCucucumber
+2018-06-06 20:01:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:14 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:01:15 INFO  GitPage:48 - Not all tags contain 'selenium'. 5 from 10
+2018-06-06 20:01:15 INFO  PageElement:27 - Click on [Select button]
+2018-06-06 20:01:15 INFO  GitPage:48 - Not all tags contain 'selenium'. 5 from 10
+2018-06-06 20:01:15 INFO  PageElement:27 - Click on [Select button]
+2018-06-06 20:01:15 INFO  PageElement:27 - Click on [Change item to 'Fewest starts']
+2018-06-06 20:01:15 INFO  GitPage:48 - Not all tags contain 'selenium'. 5 from 10
+2018-06-06 20:01:15 INFO  PageElement:27 - Click on [Select button]
+2018-06-06 20:01:15 INFO  PageElement:27 - Click on [Change item to 'Fewest starts']
+2018-06-06 20:01:15 INFO  PageElement:27 - Click on [Change item to 'Fewest starts']
+2018-06-06 20:01:16 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:01:16 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:01:17 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:01:17 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:01:17 INFO  GitPage:28 - 	arnlaugsson/sparkIt
+2018-06-06 20:01:17 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:01:17 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:01:17 INFO  GitPage:28 - 	vamonostest/java_essentials
+2018-06-06 20:01:17 INFO  GitPage:28 - 	arnlaugsson/sparkIt
+2018-06-06 20:01:17 INFO  GitPage:28 - 	arnlaugsson/sparkIt
+2018-06-06 20:01:17 INFO  GitPage:28 - 	vamonostest/java_essentials
+2018-06-06 20:01:17 INFO  GitPage:28 - 	jomarnavarro/junitWebDriver
+2018-06-06 20:01:17 INFO  GitPage:28 - 	vamonostest/java_essentials
+2018-06-06 20:01:17 INFO  GitPage:28 - 	AnalyzeAppPerformance/java-selenium-webdriver-sample-app
+2018-06-06 20:01:17 INFO  GitPage:28 - 	jomarnavarro/junitWebDriver
+2018-06-06 20:01:17 INFO  GitPage:28 - 	jomarnavarro/junitWebDriver
+2018-06-06 20:01:17 INFO  GitPage:28 - 	crossbrowsertesting/selenium-java
+2018-06-06 20:01:17 INFO  GitPage:28 - 	AnalyzeAppPerformance/java-selenium-webdriver-sample-app
+2018-06-06 20:01:17 INFO  GitPage:28 - 	w3cj/nightwatch-starter
+2018-06-06 20:01:17 INFO  GitPage:28 - 	AnalyzeAppPerformance/java-selenium-webdriver-sample-app
+2018-06-06 20:01:17 INFO  GitPage:28 - 	crossbrowsertesting/selenium-java
+2018-06-06 20:01:17 INFO  GitPage:28 - 	crossbrowsertesting/selenium-java
+2018-06-06 20:01:17 INFO  GitPage:28 - 	kowalcj0/tech-test-selenium-jbehave
+2018-06-06 20:01:17 INFO  GitPage:28 - 	w3cj/nightwatch-starter
+2018-06-06 20:01:17 INFO  GitPage:28 - 	w3cj/nightwatch-starter
+2018-06-06 20:01:17 INFO  GitPage:28 - 	pragmatictesters/selenium-webdriver-testng-java-examples
+2018-06-06 20:01:17 INFO  GitPage:28 - 	kowalcj0/tech-test-selenium-jbehave
+2018-06-06 20:01:17 INFO  GitPage:28 - 	kowalcj0/tech-test-selenium-jbehave
+2018-06-06 20:01:18 INFO  GitPage:28 - 	pragmatictesters/selenium-webdriver-testng-java-examples
+2018-06-06 20:01:18 INFO  GitPage:28 - 	pragmatictesters/selenium-webdriver-testng-java-examples
+2018-06-06 20:01:18 INFO  GitPage:28 - 	GoldenRazor/SeleniumJavaDemo
+2018-06-06 20:01:18 INFO  GitPage:28 - 	GoldenRazor/SeleniumJavaDemo
+2018-06-06 20:01:18 INFO  GitPage:28 - 	GoldenRazor/SeleniumJavaDemo
+2018-06-06 20:01:18 INFO  GitPage:28 - 	himanshu5jan/jWarmUp4Selenium
+2018-06-06 20:01:18 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:01:18 INFO  GitPage:28 - 	himanshu5jan/jWarmUp4Selenium
+2018-06-06 20:01:18 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:01:18 INFO  GitPage:28 - 	himanshu5jan/jWarmUp4Selenium
+2018-06-06 20:01:18 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:01:18 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[java]]
+2018-06-06 20:01:18 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[java]]
+2018-06-06 20:01:18 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[java]]
+2018-06-06 20:01:18 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:01:18 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:01:18 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:01:20 INFO  GitPage:32 - Total count are 795,960 repository results
+2018-06-06 20:01:20 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:01:20 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:01:20 INFO  GitPage:32 - Total count are 795,960 repository results
+2018-06-06 20:01:20 INFO  GitPage:28 - 	TheAlgorithms/Java
+2018-06-06 20:01:20 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:01:20 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:01:20 INFO  GitPage:28 - 	DuGuQiuBai/Java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	TheAlgorithms/Java
+2018-06-06 20:01:20 INFO  GitPage:32 - Total count are 795,960 repository results
+2018-06-06 20:01:20 INFO  GitPage:28 - 	hmkcode/Java
+2018-06-06 20:01:20 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:01:20 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:01:20 INFO  GitPage:28 - 	DuGuQiuBai/Java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	pubnub/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	hmkcode/Java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	TheAlgorithms/Java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	sous-chefs/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	pubnub/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	DuGuQiuBai/Java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	airbnb/javascript
+2018-06-06 20:01:20 INFO  GitPage:28 - 	sous-chefs/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	hmkcode/Java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	dockerfile/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	airbnb/javascript
+2018-06-06 20:01:20 INFO  GitPage:28 - 	pubnub/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	gaopu/Java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	dockerfile/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	sous-chefs/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	json-iterator/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	gaopu/Java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	airbnb/javascript
+2018-06-06 20:01:20 INFO  GitPage:28 - 	wesbos/JavaScript30
+2018-06-06 20:01:20 INFO  GitPage:28 - 	json-iterator/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	dockerfile/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	wesbos/JavaScript30
+2018-06-06 20:01:20 INFO  GitPage:28 - 	gaopu/Java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	json-iterator/java
+2018-06-06 20:01:20 INFO  GitPage:28 - 	wesbos/JavaScript30
+2018-06-06 20:01:21 INFO  TestGitFailed:29 - User [email= user@gmail.com , password=user]
+2018-06-06 20:01:31 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:01:32 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[user@gmail.com]]
+2018-06-06 20:01:32 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[user]]
+2018-06-06 20:01:32 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-06 20:01:32 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-06 20:01:34 INFO  TestGmail:50 - User [email= seleniumlab6test3@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 4 , message=Message Text 4]
+2018-06-06 20:01:34 INFO  TestGmail:50 - User [email= seleniumlab6test2@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 5 , message=Message Text 5]
+2018-06-06 20:01:34 INFO  TestGmail:50 - User [email= seleniolab@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 3 , message=Message Text 3]
+2018-06-06 20:01:34 INFO  TestGmail:50 - User [email= seleniumlab6test@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 1 , message=Message Text 1]
+2018-06-06 20:01:34 INFO  TestGmail:50 - User [email= dahua20151@gmail.com , password= qweqweqwe1, send to= dahua20151@gmail.com , subject=Message 2 , message=Message Text 2]
+2018-06-06 20:01:40 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:01:40 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:01:40 INFO  TestGmail:57 - Running tests
+2018-06-06 20:01:40 INFO  TestGmail:57 - Running tests
+2018-06-06 20:01:40 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:01:40 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:01:40 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:01:40 INFO  TestGmail:57 - Running tests
+2018-06-06 20:01:40 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:01:41 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:01:41 INFO  TestGmail:57 - Running tests
+2018-06-06 20:01:41 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:01:41 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:01:41 INFO  TestGmail:57 - Running tests
+2018-06-06 20:01:41 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:01:57 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:01:59 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:01:59 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:02:00 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:02:00 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:02:01 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniumlab6test@gmail.com]]
+2018-06-06 20:02:03 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniumlab6test2@gmail.com]]
+2018-06-06 20:02:03 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniolab@gmail.com]]
+2018-06-06 20:02:04 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniumlab6test3@gmail.com]]
+2018-06-06 20:02:04 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:02:04 INFO  PageElement:40 - Sending keys to [Typing email] value [[dahua20151@gmail.com]]
+2018-06-06 20:02:05 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:02:05 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:02:05 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:02:05 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:02:05 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:02:06 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:02:06 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-06 20:02:06 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:02:06 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:02:06 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:02:07 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-06 20:02:07 INFO  PageElement:40 - Sending keys to [Typing password] value [[qweqweqwe1]]
+2018-06-06 20:02:07 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:02:07 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:02:07 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:02:07 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:02:08 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:02:08 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:02:08 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:02:08 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:02:11 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:02:13 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:02:15 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:02:16 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:02:17 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-06 20:02:17 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:02:18 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-06 20:02:18 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:02:19 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:02:19 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:02:20 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:02:21 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:02:26 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-06 20:02:26 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-06 20:02:27 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-06 20:02:28 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-06 20:02:34 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 4]]
+2018-06-06 20:02:36 INFO  TestGmail:75 - Close browser
+2018-06-06 20:02:36 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 1]]
+2018-06-06 20:02:37 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 4]]
+2018-06-06 20:02:37 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 1]]
+2018-06-06 20:02:38 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-06 20:02:38 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-06 20:02:38 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-06 20:02:38 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-06 20:02:40 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:02:40 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:02:40 INFO  PageElement:55 - Getting attribute [email]
+2018-06-06 20:02:41 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:02:41 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-06 20:02:41 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-06 20:02:41 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:02:41 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-06 20:02:42 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:02:42 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-06 20:02:42 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-06 20:02:42 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:02:42 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-06 20:02:42 INFO  PageElement:55 - Getting attribute [email]
+2018-06-06 20:02:42 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-06 20:02:42 INFO  TestGmail:75 - Close browser
+2018-06-06 20:02:44 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:02:44 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-06 20:02:44 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:02:45 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-06 20:02:45 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-06 20:02:45 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-06 20:02:45 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-06 20:02:45 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-06 20:02:46 INFO  TestGmail:75 - Close browser
+2018-06-06 20:02:46 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-06 20:02:47 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 5]]
+2018-06-06 20:02:48 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 5]]
+2018-06-06 20:02:50 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-06 20:02:50 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:02:50 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:02:50 INFO  PageElement:55 - Getting attribute [email]
+2018-06-06 20:02:51 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:02:51 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-06 20:02:51 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:02:52 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-06 20:02:52 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-06 20:02:52 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-06 20:02:52 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 2]]
+2018-06-06 20:02:52 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-06 20:02:52 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-06 20:02:52 INFO  TestGmail:75 - Close browser
+2018-06-06 20:02:52 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 2]]
+2018-06-06 20:02:53 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-06 20:02:53 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:02:53 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:02:53 INFO  PageElement:55 - Getting attribute [email]
+2018-06-06 20:02:54 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:02:54 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-06 20:02:54 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:02:54 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-06 20:02:54 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-06 20:02:54 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-06 20:02:54 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-06 20:02:54 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-06 20:02:55 INFO  TestGmail:75 - Close browser
+2018-06-06 20:04:58 INFO  TestGit:42 - User [email= seleniumlab6test3@gmail.com , password=lab6test]
+2018-06-06 20:04:58 INFO  TestGit:42 - User [email= seleniumlab6test@gmail.com , password=lab6test]
+2018-06-06 20:04:58 INFO  TestGit:42 - User [email= seleniumlab6test2@gmail.com , password=lab6test]
+2018-06-06 20:05:07 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:05:08 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:05:08 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[seleniumlab6test2@gmail.com]]
+2018-06-06 20:05:08 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[seleniumlab6test3@gmail.com]]
+2018-06-06 20:05:08 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[lab6test]]
+2018-06-06 20:05:09 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-06 20:05:09 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[lab6test]]
+2018-06-06 20:05:09 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-06 20:05:09 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-06 20:05:09 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-06 20:05:10 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:05:10 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:05:10 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[selenium java]]
+2018-06-06 20:05:10 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:05:10 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:05:10 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[selenium java]]
+2018-06-06 20:05:10 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[seleniumlab6test@gmail.com]]
+2018-06-06 20:05:10 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:05:10 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[lab6test]]
+2018-06-06 20:05:11 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-06 20:05:11 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-06 20:05:12 INFO  GitPage:32 - Total count are 3,679 repository results
+2018-06-06 20:05:12 INFO  GitPage:32 - Total count are Showing 2,129 available repository results
+2018-06-06 20:05:12 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:05:12 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:05:12 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:05:12 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:05:12 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:05:12 INFO  GitPage:28 - 	SeleniumHQ/selenium
+2018-06-06 20:05:12 INFO  GitPage:28 - 	SeleniumHQ/selenium
+2018-06-06 20:05:12 INFO  GitPage:28 - 	sebarmeli/Selenium2-Java-QuickStart-Archetype
+2018-06-06 20:05:12 INFO  GitPage:28 - 	sebarmeli/Selenium2-Java-QuickStart-Archetype
+2018-06-06 20:05:12 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[selenium java]]
+2018-06-06 20:05:12 INFO  GitPage:28 - 	machzqcq/CucumberJVMExamples
+2018-06-06 20:05:12 INFO  GitPage:28 - 	machzqcq/CucumberJVMExamples
+2018-06-06 20:05:12 INFO  GitPage:28 - 	vmi/selenese-runner-java
+2018-06-06 20:05:12 INFO  GitPage:28 - 	vmi/selenese-runner-java
+2018-06-06 20:05:12 INFO  GitPage:28 - 	Ardesco/Selenium-Maven-Template
+2018-06-06 20:05:12 INFO  GitPage:28 - 	Ardesco/Selenium-Maven-Template
+2018-06-06 20:05:12 INFO  GitPage:28 - 	MarkusBernhardt/robotframework-selenium2library-java
+2018-06-06 20:05:12 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:05:12 INFO  GitPage:28 - 	MarkusBernhardt/robotframework-selenium2library-java
+2018-06-06 20:05:12 INFO  GitPage:28 - 	sayems/java.webdriver
+2018-06-06 20:05:12 INFO  GitPage:28 - 	sayems/java.webdriver
+2018-06-06 20:05:12 INFO  GitPage:28 - 	selenium-cucumber/selenium-cucumber-java
+2018-06-06 20:05:12 INFO  GitPage:28 - 	selenium-cucumber/selenium-cucumber-java
+2018-06-06 20:05:12 INFO  GitPage:28 - 	saucelabs-sample-test-frameworks/Java-TestNG-Selenium
+2018-06-06 20:05:12 INFO  GitPage:28 - 	saucelabs-sample-test-frameworks/Java-TestNG-Selenium
+2018-06-06 20:05:12 INFO  GitPage:28 - 	executeautomation/SeleniumWithCucucumber
+2018-06-06 20:05:12 INFO  GitPage:28 - 	executeautomation/SeleniumWithCucucumber
+2018-06-06 20:05:13 INFO  GitPage:32 - Total count are 3,679 repository results
+2018-06-06 20:05:13 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:05:13 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:13 INFO  GitPage:28 - 	SeleniumHQ/selenium
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:13 INFO  GitPage:28 - 	sebarmeli/Selenium2-Java-QuickStart-Archetype
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:13 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:14 INFO  GitPage:28 - 	machzqcq/CucumberJVMExamples
+2018-06-06 20:05:14 INFO  GitPage:28 - 	vmi/selenese-runner-java
+2018-06-06 20:05:14 INFO  GitPage:28 - 	Ardesco/Selenium-Maven-Template
+2018-06-06 20:05:14 INFO  GitPage:28 - 	MarkusBernhardt/robotframework-selenium2library-java
+2018-06-06 20:05:14 INFO  GitPage:28 - 	sayems/java.webdriver
+2018-06-06 20:05:14 INFO  GitPage:28 - 	selenium-cucumber/selenium-cucumber-java
+2018-06-06 20:05:14 INFO  GitPage:28 - 	saucelabs-sample-test-frameworks/Java-TestNG-Selenium
+2018-06-06 20:05:14 INFO  GitPage:28 - 	executeautomation/SeleniumWithCucucumber
+2018-06-06 20:05:14 INFO  GitPage:48 - Not all tags contain 'selenium'. 5 from 10
+2018-06-06 20:05:14 INFO  PageElement:27 - Click on [Select button]
+2018-06-06 20:05:14 INFO  GitPage:48 - Not all tags contain 'selenium'. 5 from 10
+2018-06-06 20:05:14 INFO  PageElement:27 - Click on [Select button]
+2018-06-06 20:05:14 INFO  PageElement:27 - Click on [Change item to 'Fewest starts']
+2018-06-06 20:05:14 INFO  PageElement:27 - Click on [Change item to 'Fewest starts']
+2018-06-06 20:05:15 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:15 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:15 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:15 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:15 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-06 20:05:16 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:05:16 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:05:16 INFO  GitPage:28 - 	arnlaugsson/sparkIt
+2018-06-06 20:05:16 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:05:16 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:05:16 INFO  GitPage:48 - Not all tags contain 'selenium'. 5 from 10
+2018-06-06 20:05:16 INFO  PageElement:27 - Click on [Select button]
+2018-06-06 20:05:16 INFO  GitPage:28 - 	vamonostest/java_essentials
+2018-06-06 20:05:16 INFO  GitPage:28 - 	arnlaugsson/sparkIt
+2018-06-06 20:05:16 INFO  GitPage:28 - 	jomarnavarro/junitWebDriver
+2018-06-06 20:05:16 INFO  GitPage:28 - 	vamonostest/java_essentials
+2018-06-06 20:05:16 INFO  GitPage:28 - 	AnalyzeAppPerformance/java-selenium-webdriver-sample-app
+2018-06-06 20:05:16 INFO  GitPage:28 - 	jomarnavarro/junitWebDriver
+2018-06-06 20:05:16 INFO  GitPage:28 - 	crossbrowsertesting/selenium-java
+2018-06-06 20:05:16 INFO  PageElement:27 - Click on [Change item to 'Fewest starts']
+2018-06-06 20:05:16 INFO  GitPage:28 - 	AnalyzeAppPerformance/java-selenium-webdriver-sample-app
+2018-06-06 20:05:16 INFO  GitPage:28 - 	w3cj/nightwatch-starter
+2018-06-06 20:05:16 INFO  GitPage:28 - 	crossbrowsertesting/selenium-java
+2018-06-06 20:05:16 INFO  GitPage:28 - 	kowalcj0/tech-test-selenium-jbehave
+2018-06-06 20:05:16 INFO  GitPage:28 - 	w3cj/nightwatch-starter
+2018-06-06 20:05:16 INFO  GitPage:28 - 	pragmatictesters/selenium-webdriver-testng-java-examples
+2018-06-06 20:05:16 INFO  GitPage:28 - 	kowalcj0/tech-test-selenium-jbehave
+2018-06-06 20:05:16 INFO  GitPage:28 - 	pragmatictesters/selenium-webdriver-testng-java-examples
+2018-06-06 20:05:16 INFO  GitPage:28 - 	GoldenRazor/SeleniumJavaDemo
+2018-06-06 20:05:16 INFO  GitPage:28 - 	GoldenRazor/SeleniumJavaDemo
+2018-06-06 20:05:16 INFO  GitPage:28 - 	himanshu5jan/jWarmUp4Selenium
+2018-06-06 20:05:16 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:05:16 INFO  GitPage:28 - 	himanshu5jan/jWarmUp4Selenium
+2018-06-06 20:05:16 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:05:16 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[java]]
+2018-06-06 20:05:16 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[java]]
+2018-06-06 20:05:17 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:05:17 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:05:17 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:05:17 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:05:17 INFO  GitPage:28 - 	arnlaugsson/sparkIt
+2018-06-06 20:05:17 INFO  GitPage:28 - 	vamonostest/java_essentials
+2018-06-06 20:05:17 INFO  GitPage:28 - 	jomarnavarro/junitWebDriver
+2018-06-06 20:05:17 INFO  GitPage:28 - 	AnalyzeAppPerformance/java-selenium-webdriver-sample-app
+2018-06-06 20:05:17 INFO  GitPage:28 - 	crossbrowsertesting/selenium-java
+2018-06-06 20:05:17 INFO  GitPage:28 - 	w3cj/nightwatch-starter
+2018-06-06 20:05:17 INFO  GitPage:28 - 	kowalcj0/tech-test-selenium-jbehave
+2018-06-06 20:05:17 INFO  GitPage:28 - 	pragmatictesters/selenium-webdriver-testng-java-examples
+2018-06-06 20:05:18 INFO  GitPage:28 - 	GoldenRazor/SeleniumJavaDemo
+2018-06-06 20:05:18 INFO  GitPage:28 - 	himanshu5jan/jWarmUp4Selenium
+2018-06-06 20:05:18 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-06 20:05:18 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[java]]
+2018-06-06 20:05:18 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-06 20:05:18 INFO  GitPage:32 - Total count are 795,965 repository results
+2018-06-06 20:05:18 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:05:18 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:05:18 INFO  GitPage:28 - 	TheAlgorithms/Java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	DuGuQiuBai/Java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	hmkcode/Java
+2018-06-06 20:05:18 INFO  GitPage:32 - Total count are 795,965 repository results
+2018-06-06 20:05:18 INFO  GitPage:28 - 	pubnub/java
+2018-06-06 20:05:18 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:05:18 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:05:18 INFO  GitPage:28 - 	sous-chefs/java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	TheAlgorithms/Java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	airbnb/javascript
+2018-06-06 20:05:18 INFO  GitPage:28 - 	DuGuQiuBai/Java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	dockerfile/java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	hmkcode/Java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	gaopu/Java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	pubnub/java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	json-iterator/java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	sous-chefs/java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	wesbos/JavaScript30
+2018-06-06 20:05:18 INFO  GitPage:28 - 	airbnb/javascript
+2018-06-06 20:05:18 INFO  GitPage:28 - 	dockerfile/java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	gaopu/Java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	json-iterator/java
+2018-06-06 20:05:18 INFO  GitPage:28 - 	wesbos/JavaScript30
+2018-06-06 20:05:19 INFO  GitPage:32 - Total count are 795,965 repository results
+2018-06-06 20:05:19 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-06 20:05:19 INFO  GitPage:27 - Name of repositories: 
+2018-06-06 20:05:19 INFO  GitPage:28 - 	TheAlgorithms/Java
+2018-06-06 20:05:19 INFO  GitPage:28 - 	DuGuQiuBai/Java
+2018-06-06 20:05:19 INFO  GitPage:28 - 	hmkcode/Java
+2018-06-06 20:05:19 INFO  GitPage:28 - 	pubnub/java
+2018-06-06 20:05:19 INFO  GitPage:28 - 	sous-chefs/java
+2018-06-06 20:05:19 INFO  GitPage:28 - 	airbnb/javascript
+2018-06-06 20:05:19 INFO  GitPage:28 - 	dockerfile/java
+2018-06-06 20:05:19 INFO  GitPage:28 - 	gaopu/Java
+2018-06-06 20:05:19 INFO  GitPage:28 - 	json-iterator/java
+2018-06-06 20:05:19 INFO  GitPage:28 - 	wesbos/JavaScript30
+2018-06-06 20:05:20 INFO  TestGitFailed:29 - User [email= user@gmail.com , password=user]
+2018-06-06 20:05:24 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:05:25 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[user@gmail.com]]
+2018-06-06 20:05:25 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[user]]
+2018-06-06 20:05:25 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-06 20:05:25 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-06 20:05:26 INFO  TestGmail:50 - User [email= dahua20151@gmail.com , password= qweqweqwe1, send to= dahua20151@gmail.com , subject=Message 2 , message=Message Text 2]
+2018-06-06 20:05:26 INFO  TestGmail:50 - User [email= seleniolab@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 3 , message=Message Text 3]
+2018-06-06 20:05:26 INFO  TestGmail:50 - User [email= seleniumlab6test2@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 5 , message=Message Text 5]
+2018-06-06 20:05:26 INFO  TestGmail:50 - User [email= seleniumlab6test@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 1 , message=Message Text 1]
+2018-06-06 20:05:26 INFO  TestGmail:50 - User [email= seleniumlab6test3@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 4 , message=Message Text 4]
+2018-06-06 20:05:29 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:05:29 INFO  TestGmail:57 - Running tests
+2018-06-06 20:05:29 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:05:29 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:05:29 INFO  TestGmail:57 - Running tests
+2018-06-06 20:05:29 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:05:29 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:05:29 INFO  TestGmail:57 - Running tests
+2018-06-06 20:05:29 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:05:29 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:05:29 INFO  TestGmail:57 - Running tests
+2018-06-06 20:05:29 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:05:29 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-06 20:05:29 INFO  TestGmail:57 - Running tests
+2018-06-06 20:05:29 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-06 20:05:44 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:05:46 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:05:46 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:05:47 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:05:47 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-06 20:05:47 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniumlab6test2@gmail.com]]
+2018-06-06 20:05:48 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:05:50 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:50 INFO  PageElement:40 - Sending keys to [Typing email] value [[dahua20151@gmail.com]]
+2018-06-06 20:05:50 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniumlab6test@gmail.com]]
+2018-06-06 20:05:50 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:51 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-06 20:05:51 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:05:51 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniolab@gmail.com]]
+2018-06-06 20:05:51 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:05:51 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:05:52 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:52 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:05:52 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:05:53 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniumlab6test3@gmail.com]]
+2018-06-06 20:05:53 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:53 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:53 INFO  PageElement:40 - Sending keys to [Typing password] value [[qweqweqwe1]]
+2018-06-06 20:05:53 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:05:54 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:05:54 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:54 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-06 20:05:54 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:05:54 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:54 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-06 20:05:55 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:55 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:05:55 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:55 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:05:55 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-06 20:05:55 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:05:56 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-06 20:05:56 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-06 20:05:56 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:05:56 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:05:56 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-06 20:05:57 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:05:57 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:05:57 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:05:57 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-06 20:06:05 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-06 20:06:10 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-06 20:06:11 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 5]]
+2018-06-06 20:06:11 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 5]]
+2018-06-06 20:06:13 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-06 20:06:13 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:13 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:13 INFO  PageElement:55 - Getting attribute [email]
+2018-06-06 20:06:14 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:14 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-06 20:06:14 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:14 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-06 20:06:15 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-06 20:06:15 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-06 20:06:15 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-06 20:06:15 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-06 20:06:15 INFO  TestGmail:75 - Close browser
+2018-06-06 20:06:17 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-06 20:06:17 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-06 20:06:20 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-06 20:06:21 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 1]]
+2018-06-06 20:06:21 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 1]]
+2018-06-06 20:06:22 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-06 20:06:23 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-06 20:06:23 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-06 20:06:24 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 2]]
+2018-06-06 20:06:24 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-06 20:06:24 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:25 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 2]]
+2018-06-06 20:06:25 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:26 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-06 20:06:26 INFO  PageElement:55 - Getting attribute [email]
+2018-06-06 20:06:26 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:26 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:26 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-06 20:06:26 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:26 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:26 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-06 20:06:26 INFO  PageElement:55 - Getting attribute [email]
+2018-06-06 20:06:26 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-06 20:06:27 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-06 20:06:27 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-06 20:06:27 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-06 20:06:27 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:28 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-06 20:06:28 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:28 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-06 20:06:28 INFO  TestGmail:75 - Close browser
+2018-06-06 20:06:28 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-06 20:06:28 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-06 20:06:28 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-06 20:06:28 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-06 20:06:29 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-06 20:06:29 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-06 20:06:29 INFO  TestGmail:75 - Close browser
+2018-06-06 20:06:30 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 3]]
+2018-06-06 20:06:30 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 3]]
+2018-06-06 20:06:31 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-06 20:06:31 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:32 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:32 INFO  PageElement:55 - Getting attribute [email]
+2018-06-06 20:06:32 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 4]]
+2018-06-06 20:06:33 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:33 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-06 20:06:33 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:33 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-06 20:06:33 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-06 20:06:33 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-06 20:06:34 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-06 20:06:34 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-06 20:06:34 INFO  TestGmail:75 - Close browser
+2018-06-06 20:06:34 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 4]]
+2018-06-06 20:06:35 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-06 20:06:35 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:35 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-06 20:06:36 INFO  PageElement:55 - Getting attribute [email]
+2018-06-06 20:06:36 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:36 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-06 20:06:36 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-06 20:06:36 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-06 20:06:36 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-06 20:06:36 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-06 20:06:36 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-06 20:06:37 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-06 20:06:37 INFO  TestGmail:75 - Close browser
+2018-06-07 13:08:19 INFO  TestGit:42 - User [email= seleniumlab6test2@gmail.com , password=lab6test]
+2018-06-07 13:08:19 INFO  TestGit:42 - User [email= seleniumlab6test@gmail.com , password=lab6test]
+2018-06-07 13:08:19 INFO  TestGit:42 - User [email= seleniumlab6test3@gmail.com , password=lab6test]
+2018-06-07 13:08:27 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[seleniumlab6test2@gmail.com]]
+2018-06-07 13:08:28 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[lab6test]]
+2018-06-07 13:08:28 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-07 13:08:28 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-07 13:08:30 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-07 13:08:30 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[selenium java]]
+2018-06-07 13:08:30 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-07 13:08:30 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[seleniumlab6test3@gmail.com]]
+2018-06-07 13:08:30 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[seleniumlab6test@gmail.com]]
+2018-06-07 13:08:30 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[lab6test]]
+2018-06-07 13:08:30 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[lab6test]]
+2018-06-07 13:08:30 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-07 13:08:30 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-07 13:08:30 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-07 13:08:30 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-07 13:08:31 INFO  GitPage:32 - Total count are 3,678 repository results
+2018-06-07 13:08:31 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-07 13:08:31 INFO  GitPage:27 - Name of repositories: 
+2018-06-07 13:08:31 INFO  GitPage:28 - 	SeleniumHQ/selenium
+2018-06-07 13:08:32 INFO  GitPage:28 - 	sebarmeli/Selenium2-Java-QuickStart-Archetype
+2018-06-07 13:08:32 INFO  GitPage:28 - 	machzqcq/CucumberJVMExamples
+2018-06-07 13:08:32 INFO  GitPage:28 - 	vmi/selenese-runner-java
+2018-06-07 13:08:32 INFO  GitPage:28 - 	Ardesco/Selenium-Maven-Template
+2018-06-07 13:08:32 INFO  GitPage:28 - 	MarkusBernhardt/robotframework-selenium2library-java
+2018-06-07 13:08:32 INFO  GitPage:28 - 	sayems/java.webdriver
+2018-06-07 13:08:32 INFO  GitPage:28 - 	selenium-cucumber/selenium-cucumber-java
+2018-06-07 13:08:32 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-07 13:08:32 INFO  GitPage:28 - 	saucelabs-sample-test-frameworks/Java-TestNG-Selenium
+2018-06-07 13:08:32 INFO  GitPage:28 - 	executeautomation/SeleniumWithCucucumber
+2018-06-07 13:08:32 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-07 13:08:32 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[selenium java]]
+2018-06-07 13:08:32 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[selenium java]]
+2018-06-07 13:08:32 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-07 13:08:32 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-07 13:08:33 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:33 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:33 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:33 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:33 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:34 INFO  GitPage:48 - Not all tags contain 'selenium'. 5 from 10
+2018-06-07 13:08:34 INFO  PageElement:27 - Click on [Select button]
+2018-06-07 13:08:34 INFO  PageElement:27 - Click on [Change item to 'Fewest starts']
+2018-06-07 13:08:35 INFO  GitPage:32 - Total count are 3,678 repository results
+2018-06-07 13:08:35 INFO  GitPage:32 - Total count are 3,678 repository results
+2018-06-07 13:08:35 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-07 13:08:35 INFO  GitPage:27 - Name of repositories: 
+2018-06-07 13:08:35 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-07 13:08:35 INFO  GitPage:27 - Name of repositories: 
+2018-06-07 13:08:35 INFO  GitPage:28 - 	SeleniumHQ/selenium
+2018-06-07 13:08:35 INFO  GitPage:28 - 	sebarmeli/Selenium2-Java-QuickStart-Archetype
+2018-06-07 13:08:35 INFO  GitPage:28 - 	SeleniumHQ/selenium
+2018-06-07 13:08:35 INFO  GitPage:28 - 	machzqcq/CucumberJVMExamples
+2018-06-07 13:08:35 INFO  GitPage:28 - 	sebarmeli/Selenium2-Java-QuickStart-Archetype
+2018-06-07 13:08:35 INFO  GitPage:28 - 	machzqcq/CucumberJVMExamples
+2018-06-07 13:08:35 INFO  GitPage:28 - 	vmi/selenese-runner-java
+2018-06-07 13:08:35 INFO  GitPage:28 - 	vmi/selenese-runner-java
+2018-06-07 13:08:35 INFO  GitPage:28 - 	Ardesco/Selenium-Maven-Template
+2018-06-07 13:08:35 INFO  GitPage:28 - 	MarkusBernhardt/robotframework-selenium2library-java
+2018-06-07 13:08:35 INFO  GitPage:28 - 	Ardesco/Selenium-Maven-Template
+2018-06-07 13:08:35 INFO  GitPage:28 - 	MarkusBernhardt/robotframework-selenium2library-java
+2018-06-07 13:08:35 INFO  GitPage:28 - 	sayems/java.webdriver
+2018-06-07 13:08:36 INFO  GitPage:28 - 	sayems/java.webdriver
+2018-06-07 13:08:36 INFO  GitPage:28 - 	selenium-cucumber/selenium-cucumber-java
+2018-06-07 13:08:36 INFO  GitPage:28 - 	saucelabs-sample-test-frameworks/Java-TestNG-Selenium
+2018-06-07 13:08:36 INFO  GitPage:28 - 	selenium-cucumber/selenium-cucumber-java
+2018-06-07 13:08:36 INFO  GitPage:28 - 	executeautomation/SeleniumWithCucucumber
+2018-06-07 13:08:36 INFO  GitPage:28 - 	saucelabs-sample-test-frameworks/Java-TestNG-Selenium
+2018-06-07 13:08:36 INFO  GitPage:28 - 	executeautomation/SeleniumWithCucucumber
+2018-06-07 13:08:36 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-07 13:08:36 INFO  GitPage:27 - Name of repositories: 
+2018-06-07 13:08:36 INFO  GitPage:28 - 	arnlaugsson/sparkIt
+2018-06-07 13:08:36 INFO  GitPage:28 - 	vamonostest/java_essentials
+2018-06-07 13:08:36 INFO  GitPage:28 - 	jomarnavarro/junitWebDriver
+2018-06-07 13:08:36 INFO  GitPage:28 - 	AnalyzeAppPerformance/java-selenium-webdriver-sample-app
+2018-06-07 13:08:36 INFO  GitPage:28 - 	crossbrowsertesting/selenium-java
+2018-06-07 13:08:36 INFO  GitPage:28 - 	w3cj/nightwatch-starter
+2018-06-07 13:08:36 INFO  GitPage:28 - 	kowalcj0/tech-test-selenium-jbehave
+2018-06-07 13:08:36 INFO  GitPage:28 - 	pragmatictesters/selenium-webdriver-testng-java-examples
+2018-06-07 13:08:36 INFO  GitPage:28 - 	GoldenRazor/SeleniumJavaDemo
+2018-06-07 13:08:36 INFO  GitPage:28 - 	himanshu5jan/jWarmUp4Selenium
+2018-06-07 13:08:36 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-07 13:08:36 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[java]]
+2018-06-07 13:08:36 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:46 - Tag [selenium] contain: selenium
+2018-06-07 13:08:37 INFO  GitPage:48 - Not all tags contain 'selenium'. 5 from 10
+2018-06-07 13:08:37 INFO  PageElement:27 - Click on [Select button]
+2018-06-07 13:08:37 INFO  GitPage:48 - Not all tags contain 'selenium'. 5 from 10
+2018-06-07 13:08:37 INFO  PageElement:27 - Click on [Select button]
+2018-06-07 13:08:38 INFO  PageElement:27 - Click on [Change item to 'Fewest starts']
+2018-06-07 13:08:38 INFO  GitPage:32 - Total count are 796,529 repository results
+2018-06-07 13:08:38 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-07 13:08:38 INFO  GitPage:27 - Name of repositories: 
+2018-06-07 13:08:38 INFO  PageElement:27 - Click on [Change item to 'Fewest starts']
+2018-06-07 13:08:38 INFO  GitPage:28 - 	TheAlgorithms/Java
+2018-06-07 13:08:38 INFO  GitPage:28 - 	DuGuQiuBai/Java
+2018-06-07 13:08:38 INFO  GitPage:28 - 	hmkcode/Java
+2018-06-07 13:08:38 INFO  GitPage:28 - 	pubnub/java
+2018-06-07 13:08:38 INFO  GitPage:28 - 	sous-chefs/java
+2018-06-07 13:08:38 INFO  GitPage:28 - 	airbnb/javascript
+2018-06-07 13:08:38 INFO  GitPage:28 - 	dockerfile/java
+2018-06-07 13:08:38 INFO  GitPage:28 - 	json-iterator/java
+2018-06-07 13:08:38 INFO  GitPage:28 - 	gaopu/Java
+2018-06-07 13:08:38 INFO  GitPage:28 - 	wesbos/JavaScript30
+2018-06-07 13:08:39 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-07 13:08:39 INFO  GitPage:27 - Name of repositories: 
+2018-06-07 13:08:39 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-07 13:08:39 INFO  GitPage:27 - Name of repositories: 
+2018-06-07 13:08:39 INFO  GitPage:28 - 	arnlaugsson/sparkIt
+2018-06-07 13:08:39 INFO  GitPage:28 - 	arnlaugsson/sparkIt
+2018-06-07 13:08:39 INFO  GitPage:28 - 	vamonostest/java_essentials
+2018-06-07 13:08:39 INFO  GitPage:28 - 	vamonostest/java_essentials
+2018-06-07 13:08:39 INFO  GitPage:28 - 	jomarnavarro/junitWebDriver
+2018-06-07 13:08:39 INFO  GitPage:28 - 	jomarnavarro/junitWebDriver
+2018-06-07 13:08:39 INFO  GitPage:28 - 	AnalyzeAppPerformance/java-selenium-webdriver-sample-app
+2018-06-07 13:08:39 INFO  GitPage:28 - 	AnalyzeAppPerformance/java-selenium-webdriver-sample-app
+2018-06-07 13:08:39 INFO  GitPage:28 - 	crossbrowsertesting/selenium-java
+2018-06-07 13:08:39 INFO  GitPage:28 - 	crossbrowsertesting/selenium-java
+2018-06-07 13:08:39 INFO  GitPage:28 - 	w3cj/nightwatch-starter
+2018-06-07 13:08:39 INFO  GitPage:28 - 	w3cj/nightwatch-starter
+2018-06-07 13:08:39 INFO  GitPage:28 - 	kowalcj0/tech-test-selenium-jbehave
+2018-06-07 13:08:39 INFO  GitPage:28 - 	kowalcj0/tech-test-selenium-jbehave
+2018-06-07 13:08:39 INFO  GitPage:28 - 	pragmatictesters/selenium-webdriver-testng-java-examples
+2018-06-07 13:08:39 INFO  GitPage:28 - 	pragmatictesters/selenium-webdriver-testng-java-examples
+2018-06-07 13:08:39 INFO  GitPage:28 - 	GoldenRazor/SeleniumJavaDemo
+2018-06-07 13:08:39 INFO  GitPage:28 - 	GoldenRazor/SeleniumJavaDemo
+2018-06-07 13:08:39 INFO  GitPage:28 - 	himanshu5jan/jWarmUp4Selenium
+2018-06-07 13:08:39 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-07 13:08:39 INFO  GitPage:28 - 	himanshu5jan/jWarmUp4Selenium
+2018-06-07 13:08:39 INFO  PageElement:45 - Clear [Search text in search bar]
+2018-06-07 13:08:39 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[java]]
+2018-06-07 13:08:39 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[java]]
+2018-06-07 13:08:39 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-07 13:08:39 INFO  PageElement:40 - Sending keys to [Search text in search bar] value [[?]]
+2018-06-07 13:08:40 INFO  GitPage:32 - Total count are 796,529 repository results
+2018-06-07 13:08:40 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-07 13:08:40 INFO  GitPage:27 - Name of repositories: 
+2018-06-07 13:08:40 INFO  GitPage:32 - Total count are 796,529 repository results
+2018-06-07 13:08:40 INFO  GitPage:26 - There are 10 repositories on the page.
+
+2018-06-07 13:08:40 INFO  GitPage:27 - Name of repositories: 
+2018-06-07 13:08:40 INFO  GitPage:28 - 	TheAlgorithms/Java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	DuGuQiuBai/Java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	TheAlgorithms/Java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	DuGuQiuBai/Java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	hmkcode/Java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	hmkcode/Java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	pubnub/java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	pubnub/java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	sous-chefs/java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	sous-chefs/java
+2018-06-07 13:08:40 INFO  GitPage:28 - 	airbnb/javascript
+2018-06-07 13:08:40 INFO  GitPage:28 - 	airbnb/javascript
+2018-06-07 13:08:41 INFO  GitPage:28 - 	dockerfile/java
+2018-06-07 13:08:41 INFO  GitPage:28 - 	dockerfile/java
+2018-06-07 13:08:41 INFO  GitPage:28 - 	json-iterator/java
+2018-06-07 13:08:41 INFO  GitPage:28 - 	json-iterator/java
+2018-06-07 13:08:41 INFO  GitPage:28 - 	gaopu/Java
+2018-06-07 13:08:41 INFO  GitPage:28 - 	gaopu/Java
+2018-06-07 13:08:41 INFO  GitPage:28 - 	wesbos/JavaScript30
+2018-06-07 13:08:41 INFO  GitPage:28 - 	wesbos/JavaScript30
+2018-06-07 13:08:42 INFO  TestGitFailed:29 - User [email= user@gmail.com , password=user]
+2018-06-07 13:08:46 INFO  PageElement:40 - Sending keys to [Input login in GitHub] value [[user@gmail.com]]
+2018-06-07 13:08:46 INFO  PageElement:40 - Sending keys to [Input password in GitHub] value [[user]]
+2018-06-07 13:08:47 INFO  PageElement:84 - Checking if element is displayed [Button 'Commit']
+2018-06-07 13:08:47 INFO  PageElement:27 - Click on [Button 'Commit']
+2018-06-07 13:08:48 INFO  TestGmail:50 - User [email= seleniumlab6test2@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 5 , message=Message Text 5]
+2018-06-07 13:08:48 INFO  TestGmail:50 - User [email= seleniumlab6test@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 1 , message=Message Text 1]
+2018-06-07 13:08:48 INFO  TestGmail:50 - User [email= dahua20151@gmail.com , password= qweqweqwe1, send to= dahua20151@gmail.com , subject=Message 2 , message=Message Text 2]
+2018-06-07 13:08:48 INFO  TestGmail:50 - User [email= seleniumlab6test3@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 4 , message=Message Text 4]
+2018-06-07 13:08:48 INFO  TestGmail:50 - User [email= seleniolab@gmail.com , password= lab6test, send to= dahua20151@gmail.com , subject=Message 3 , message=Message Text 3]
+2018-06-07 13:08:51 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-07 13:08:51 INFO  TestGmail:57 - Running tests
+2018-06-07 13:08:51 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-07 13:08:51 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-07 13:08:51 INFO  TestGmail:57 - Running tests
+2018-06-07 13:08:51 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-07 13:08:51 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-07 13:08:51 INFO  TestGmail:57 - Running tests
+2018-06-07 13:08:51 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-07 13:08:52 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-07 13:08:52 INFO  TestGmail:57 - Running tests
+2018-06-07 13:08:52 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-07 13:08:52 INFO  TestGmail:56 - Initialize properties and go to website
+2018-06-07 13:08:52 INFO  TestGmail:57 - Running tests
+2018-06-07 13:08:52 INFO  TestGmail:58 - Test sign in to Gmail
+2018-06-07 13:09:05 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-07 13:09:10 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniumlab6test@gmail.com]]
+2018-06-07 13:09:10 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-07 13:09:15 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-07 13:09:15 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:16 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:16 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-07 13:09:16 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:16 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-07 13:09:17 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-07 13:09:17 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-07 13:09:17 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-07 13:09:18 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-07 13:09:18 INFO  PageElement:27 - Click on [Button 'Sign in']
+2018-06-07 13:09:19 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniumlab6test2@gmail.com]]
+2018-06-07 13:09:20 INFO  PageElement:40 - Sending keys to [Typing email] value [[dahua20151@gmail.com]]
+2018-06-07 13:09:21 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniumlab6test3@gmail.com]]
+2018-06-07 13:09:23 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-07 13:09:23 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-07 13:09:23 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:23 INFO  PageElement:40 - Sending keys to [Typing email] value [[seleniolab@gmail.com]]
+2018-06-07 13:09:23 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:24 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:24 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:24 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-07 13:09:24 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-07 13:09:24 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-07 13:09:25 INFO  PageElement:27 - Click on ['Next' after email]
+2018-06-07 13:09:25 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-07 13:09:25 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-07 13:09:25 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:25 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-07 13:09:25 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:25 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-07 13:09:26 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:26 INFO  PageElement:40 - Sending keys to [Typing password] value [[qweqweqwe1]]
+2018-06-07 13:09:27 INFO  PageElement:84 - Checking if element is displayed [Typing password]
+2018-06-07 13:09:27 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-07 13:09:27 INFO  PageElement:40 - Sending keys to [Typing password] value [[lab6test]]
+2018-06-07 13:09:27 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-07 13:09:27 INFO  PageElement:27 - Click on ['Next' after password]
+2018-06-07 13:09:28 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-07 13:09:28 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-07 13:09:28 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-07 13:09:28 INFO  PageElement:84 - Checking if element is displayed [Button 'Compose']
+2018-06-07 13:09:49 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-07 13:09:49 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-07 13:09:50 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 1]]
+2018-06-07 13:09:50 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 1]]
+2018-06-07 13:09:51 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-07 13:09:51 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:09:51 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:09:51 INFO  PageElement:55 - Getting attribute [email]
+2018-06-07 13:09:52 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:09:52 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-07 13:09:52 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:09:52 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-07 13:09:52 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-07 13:09:52 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-07 13:09:52 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-07 13:09:53 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-07 13:09:53 INFO  TestGmail:75 - Close browser
+2018-06-07 13:09:53 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-07 13:09:53 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-07 13:09:57 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 2]]
+2018-06-07 13:09:57 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 2]]
+2018-06-07 13:09:58 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-07 13:09:58 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:10:00 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-07 13:10:01 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-07 13:10:01 INFO  PageElement:27 - Click on [Button 'Compose']
+2018-06-07 13:10:02 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:10:02 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-07 13:10:02 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-07 13:10:03 INFO  PageElement:40 - Sending keys to [Input recipients] value [[dahua20151@gmail.com]]
+2018-06-07 13:10:04 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 3]]
+2018-06-07 13:10:04 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 4]]
+2018-06-07 13:10:04 INFO  PageElement:55 - Getting attribute [email]
+2018-06-07 13:10:04 INFO  PageElement:40 - Sending keys to [Input subject] value [[Message 5]]
+2018-06-07 13:10:05 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:10:05 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-07 13:10:05 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 3]]
+2018-06-07 13:10:05 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:10:05 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 4]]
+2018-06-07 13:10:05 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-07 13:10:05 INFO  PageElement:40 - Sending keys to [Input message] value [[Message Text 5]]
+2018-06-07 13:10:05 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-07 13:10:06 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-07 13:10:06 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-07 13:10:06 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-07 13:10:06 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-07 13:10:06 INFO  PageElement:27 - Click on [Button 'Send']
+2018-06-07 13:10:06 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:10:06 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-07 13:10:06 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:10:06 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:10:06 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:10:07 INFO  TestGmail:75 - Close browser
+2018-06-07 13:10:07 INFO  PageElement:55 - Getting attribute [email]
+2018-06-07 13:10:07 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:10:07 INFO  PageElement:27 - Click on [Go to sent folder]
+2018-06-07 13:10:07 INFO  PageElement:55 - Getting attribute [email]
+2018-06-07 13:10:07 INFO  PageElement:55 - Getting attribute [email]
+2018-06-07 13:10:07 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:10:07 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-07 13:10:07 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:10:07 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-07 13:10:07 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-07 13:10:08 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-07 13:10:08 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-07 13:10:08 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-07 13:10:08 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:10:08 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-07 13:10:08 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:10:08 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:10:08 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-07 13:10:08 INFO  TestGmail:75 - Close browser
+2018-06-07 13:10:08 INFO  PageElement:65 - Checking if element is enabled [Checking item for remove]
+2018-06-07 13:10:08 INFO  PageElement:84 - Checking if element is displayed [Checking item for remove]
+2018-06-07 13:10:08 INFO  PageElement:27 - Click on [Checking item for remove]
+2018-06-07 13:10:08 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-07 13:10:09 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-07 13:10:09 INFO  PageElement:84 - Checking if element is displayed [Button 'Delete']
+2018-06-07 13:10:09 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-07 13:10:09 INFO  PageElement:27 - Click on [Button 'Delete']
+2018-06-07 13:10:09 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-07 13:10:09 INFO  PageElement:84 - Checking if element is displayed [Click 'Ok' in alert message]
+2018-06-07 13:10:09 INFO  PageElement:27 - Click on [Click 'Ok' in alert message]
+2018-06-07 13:10:09 INFO  TestGmail:75 - Close browser
+2018-06-07 13:10:09 INFO  TestGmail:75 - Close browser

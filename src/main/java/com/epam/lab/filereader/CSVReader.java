@@ -21,7 +21,10 @@ public class CSVReader {
         try (BufferedReader br = new BufferedReader(new FileReader(usersGitHubPath))) {
             while ((LINE_SEPARATE = br.readLine()) != null) {
                 userData = LINE_SEPARATE.split(CVS_SPLIT_BY);
-                userModels.add(new ModelGitUsers(userData[0],userData[1]));
+                ModelGitUsers gitData = new ModelGitUsers();
+                gitData.setLogin(userData[0]);
+                gitData.setPassword(userData[1]);
+                userModels.add(gitData);
             }
         } catch (IOException e) {
             e.printStackTrace();

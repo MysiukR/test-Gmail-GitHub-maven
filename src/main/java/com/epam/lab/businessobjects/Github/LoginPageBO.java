@@ -26,9 +26,8 @@ public class LoginPageBO {
         return new GitPageBO();
     }
 
-    public void clickSignIn() {
+    public void navigateToSite() {
         loginPage.getURL();
-        loginPage.getBtnSignIn().click();
     }
 
     public void isSignedIn() {

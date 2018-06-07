@@ -9,7 +9,6 @@ public class LoginPageBO {
 
     public void clickSignIn() {
         loginPage.getURL();
-        //Assert.assertEquals(loginPage.getIconText(), UNIQUE_TEXT, "Unsuccessful connection");
         loginPage.getBtnSignIn().click();
     }
 
